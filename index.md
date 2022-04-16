@@ -1,5 +1,4 @@
 ## Welcome to GitHub Pages
 
-Home Page:
+[Home Page](https://yi226.github.io/home)
 
-https://yi226.github.io/home
