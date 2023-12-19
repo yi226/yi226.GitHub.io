@@ -8,8 +8,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "598061546160ce4f8c413822f5f7d7fe
 "assets/AssetManifest.json": "f517be30314aabc24a79f8237d95224a",
 "assets/assets/icons/icon.png": "0c674c3b16b03ed9ed54e495aa1c763c",
 "assets/FontManifest.json": "8d9ed386105956ca48b6cea9b5e793b2",
-"assets/fonts/MaterialIcons-Regular.otf": "fd3bade282a52a80292e6e186fd89e5e",
-"assets/NOTICES": "9817631bf381cbc09df7f3face93e1ef",
+"assets/fonts/MaterialIcons-Regular.otf": "c42be3a21a4423c99765f70c7d4c5a7b",
+"assets/NOTICES": "48db098d8818b8e9efaa1c1b6c2f584c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/shirne_dialog/assets/fonts/icons.ttf": "b61ba47765ff7e53c2b1a4dc63ec1e4c",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
@@ -26,11 +26,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "598061546160ce4f8c413822f5f7d7fe
 "icons/Icon-512.png": "bef20933f43f4c7d6e10ffd2545d6d18",
 "icons/Icon-maskable-192.png": "443b78550270e1cdbd6665d7d57d707c",
 "icons/Icon-maskable-512.png": "bef20933f43f4c7d6e10ffd2545d6d18",
-"index.html": "74d4c11d3a15259c5072a7f1979a7bbd",
-"/": "74d4c11d3a15259c5072a7f1979a7bbd",
-"main.dart.js": "f0271ec1e8ac606c17bdcd2f4dd328bb",
+"index.html": "7857cd313743f8ea58c5b70e04acca04",
+"/": "7857cd313743f8ea58c5b70e04acca04",
+"main.dart.js": "b50d2d616aa461167fee7d2a15a288dc",
 "manifest.json": "7bd799764976b74de31f2568ca112809",
-"version.json": "daddb57faee272b6414f39afea3e53dc"};
+"version.json": "49f3edc52c9b000fc553dea0e244a609"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
